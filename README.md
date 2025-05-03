@@ -40,6 +40,10 @@ Simon-Says-Game/
 
 ![Simon Says Game Screenshot](https://github.com/adithyas0047/Simon-Says-Game/blob/main/simonSays.png)
 
+## 📌 Live Demo
+
+You can play it online here: [Simon Says Live](https://simon-says-game-byadithya.netlify.app/)
+
 ## 🧑‍💻 Author
 
 **Adithya S.**
