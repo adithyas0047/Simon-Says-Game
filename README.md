@@ -35,5 +35,6 @@ Simon-Says-Game/
 
 ## 📸 Preview
 
+![Simon Says Game Screenshot](https://github.com/adithyas0047/Simon-Says-Game/blob/main/simonSays.png)
 
 
