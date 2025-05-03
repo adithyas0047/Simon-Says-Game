@@ -29,7 +29,6 @@ A fun web-based **Simon Says Game** built using HTML, CSS, and JavaScript. The g
 ## 📁 Project Structure
 
 Simon-Says-Game
-/
 ├── index.html       
 ├── style.css       
 ├── app.js          
