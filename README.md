@@ -42,4 +42,4 @@ Simon-Says-Game/
 **Adithya S.**
 
 - GitHub: [@adithyas0047](https://github.com/adithyas0047)
-- LinkedIn: [Adithya S](www.linkedin.com/in/adithya-s-027342237)
+- LinkedIn: [Adithya S](https://www.linkedin.com/in/adithya-s-027342237/)
