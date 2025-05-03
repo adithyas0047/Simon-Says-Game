@@ -27,13 +27,14 @@ A fun web-based **Simon Says Game** built using HTML, CSS, and JavaScript. The g
 6. Try to beat your high score!
 
 ## 📁 Project Structure
-
-Simon-Says-Game
+```php
+Simon-Says-Game/
 ├── index.html       
 ├── style.css       
 ├── app.js          
 ├── simonSays.png    
-└── README.md       
+└── README.md
+```     
 
 ## 📸 Preview
 
