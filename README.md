@@ -33,3 +33,7 @@ Simon-Says-Game/
 ├── style.css 
 └── app.js 
 
+## 📸 Preview
+
+
+
