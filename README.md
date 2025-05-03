@@ -37,4 +37,9 @@ Simon-Says-Game/
 
 ![Simon Says Game Screenshot](https://github.com/adithyas0047/Simon-Says-Game/blob/main/simonSays.png)
 
+## 🧑‍💻 Author
 
+**Adithya S.**
+
+- GitHub: [@adithyas0047](https://github.com/adithyas0047)
+- LinkedIn: [Adithya S](www.linkedin.com/in/adithya-s-027342237)
