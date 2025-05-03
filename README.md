@@ -34,15 +34,16 @@ Simon-Says-Game/
 ├── app.js          
 ├── simonSays.png    
 └── README.md
-```     
+```
+
+## 📌 Live Demo
+
+You can play it online here: [Simon Says Live](https://simon-says-game-byadithya.netlify.app/)
 
 ## 📸 Preview
 
 ![Simon Says Game Screenshot](https://github.com/adithyas0047/Simon-Says-Game/blob/main/simonSays.png)
 
-## 📌 Live Demo
-
-You can play it online here: [Simon Says Live](https://simon-says-game-byadithya.netlify.app/)
 
 ## 🧑‍💻 Author
 
